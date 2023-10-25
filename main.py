@@ -1,3 +1,4 @@
+# This is Andrew Xing's file
 def encode(password):
     length = len(password)
     i = 0
